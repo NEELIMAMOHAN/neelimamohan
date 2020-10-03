@@ -12,5 +12,15 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ..
--ok
+-
+    🥺 Pleading Face
+    ❤ Red Heart
+    🎃 Jack-O-Lantern
+    ✨ Sparkles
+    😂 Face with Tears of Joy
+    😊 Smiling Face with Smiling Eyes
+    🔥 Fire
+    👍 Thumbs Up
+    ✔ Check Mark
+
 -->
