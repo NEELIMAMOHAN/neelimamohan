@@ -21,6 +21,8 @@ Here are some ideas to get you started:
     😊 Smiling Face with Smiling Eyes
     🔥 Fire
     👍 Thumbs Up
+    feeling happy
+    positive
     ✔ Check Mark
 
 -->
